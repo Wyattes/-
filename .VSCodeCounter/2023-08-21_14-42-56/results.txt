@@ -1,0 +1,101 @@
+Date : 2023-08-21 14:42:56
+Directory : d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src
+Total : 45 files,  1553 codes, 68 comments, 215 blanks, all 1836 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |         21 |        864 |         32 |        108 |      1,004 |
+| JavaScript |         15 |        378 |         30 |         40 |        448 |
+| SCSS       |          6 |        279 |          5 |         59 |        343 |
+| TypeScript |          3 |         32 |          1 |          8 |         41 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         45 |      1,553 |         68 |        215 |      1,836 |
+| . (Files)                                                                               |          3 |         32 |          1 |          9 |         42 |
+| api                                                                                     |          4 |         83 |          5 |         14 |        102 |
+| components                                                                              |          1 |         57 |          1 |          4 |         62 |
+| i18n                                                                                    |          3 |        114 |          1 |          6 |        121 |
+| layout                                                                                  |          8 |        329 |          7 |         37 |        373 |
+| layout (Files)                                                                          |          1 |         42 |          0 |          4 |         46 |
+| layout\Menu                                                                             |          1 |         53 |          4 |          4 |         61 |
+| layout\headers                                                                          |          6 |        234 |          3 |         29 |        266 |
+| layout\headers (Files)                                                                  |          1 |         45 |          0 |          3 |         48 |
+| layout\headers\components                                                               |          5 |        189 |          3 |         26 |        218 |
+| router                                                                                  |          2 |         78 |          8 |          6 |         92 |
+| store                                                                                   |          3 |         56 |          9 |          4 |         69 |
+| store (Files)                                                                           |          2 |         13 |          0 |          2 |         15 |
+| store\modules                                                                           |          1 |         43 |          9 |          2 |         54 |
+| styles                                                                                  |          6 |        279 |          5 |         59 |        343 |
+| utils                                                                                   |          3 |         30 |          7 |         10 |         47 |
+| views                                                                                   |         12 |        495 |         24 |         66 |        585 |
+| views (Files)                                                                           |          1 |         16 |          0 |          3 |         19 |
+| views\categories                                                                        |          1 |          5 |          0 |          3 |          8 |
+| views\goods                                                                             |          1 |          5 |          0 |          3 |          8 |
+| views\login                                                                             |          1 |        149 |          8 |         21 |        178 |
+| views\orders                                                                            |          1 |          5 |          0 |          3 |          8 |
+| views\params                                                                            |          1 |          5 |          0 |          3 |          8 |
+| views\reports                                                                           |          1 |          5 |          0 |          3 |          8 |
+| views\rights                                                                            |          1 |          5 |          0 |          3 |          8 |
+| views\roles                                                                             |          1 |          5 |          0 |          3 |          8 |
+| views\users                                                                             |          3 |        295 |         16 |         21 |        332 |
+| views\users (Files)                                                                     |          2 |        186 |         11 |         11 |        208 |
+| views\users\componets                                                                   |          1 |        109 |          5 |         10 |        124 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\App.vue                                  | Vue        |          9 |          0 |          2 |         11 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\api\login.js                             | JavaScript |          8 |          0 |          2 |         10 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\api\menu.js                              | JavaScript |          6 |          0 |          2 |          8 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\api\request.js                           | JavaScript |         36 |          4 |          4 |         44 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\api\users.js                             | JavaScript |         33 |          1 |          6 |         40 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\components\HelloWorld.vue                | Vue        |         57 |          1 |          4 |         62 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\i18n\en.js                               | JavaScript |         45 |          0 |          1 |         46 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\i18n\index.js                            | JavaScript |         24 |          1 |          4 |         29 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\i18n\zh.js                               | JavaScript |         45 |          0 |          1 |         46 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\layout\Menu\index.vue                    | Vue        |         53 |          4 |          4 |         61 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\layout\headers\components\Breadcrumb.vue | Vue        |         47 |          1 |          6 |         54 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\layout\headers\components\avatar.vue     | Vue        |         24 |          0 |          5 |         29 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\layout\headers\components\hamberger.vue  | Vue        |         25 |          0 |          4 |         29 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\layout\headers\components\lang.vue       | Vue        |         66 |          2 |          5 |         73 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\layout\headers\components\screenFull.vue | Vue        |         27 |          0 |          6 |         33 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\layout\headers\index.vue                 | Vue        |         45 |          0 |          3 |         48 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\layout\index.vue                         | Vue        |         42 |          0 |          4 |         46 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\main.ts                                  | TypeScript |         16 |          0 |          3 |         19 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\router\index.js                          | JavaScript |         60 |          6 |          4 |         70 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\router\permission.js                     | JavaScript |         18 |          2 |          2 |         22 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\shims-vue.d.ts                           | TypeScript |          7 |          1 |          4 |         12 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\store\getters.js                         | JavaScript |          4 |          0 |          1 |          5 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\store\index.ts                           | TypeScript |          9 |          0 |          1 |         10 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\store\modules\app.js                     | JavaScript |         43 |          9 |          2 |         54 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\styles\element.scss                      | SCSS       |          4 |          0 |          1 |          5 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\styles\index.scss                        | SCSS       |         59 |          0 |          9 |         68 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\styles\mixin.scss                        | SCSS       |         24 |          0 |          5 |         29 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\styles\sidebar.scss                      | SCSS       |        147 |          3 |         32 |        182 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\styles\transition.scss                   | SCSS       |         24 |          1 |          6 |         31 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\styles\variables.scss                    | SCSS       |         21 |          1 |          6 |         28 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\utils\auth.js                            | JavaScript |         12 |          3 |          4 |         19 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\utils\constant.js                        | JavaScript |          2 |          0 |          2 |          4 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\utils\filters.js                         | JavaScript |         16 |          4 |          4 |         24 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\HomeView.vue                       | Vue        |         16 |          0 |          3 |         19 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\categories\index.vue               | Vue        |          5 |          0 |          3 |          8 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\goods\index.vue                    | Vue        |          5 |          0 |          3 |          8 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\login\index.vue                    | Vue        |        149 |          8 |         21 |        178 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\orders\index.vue                   | Vue        |          5 |          0 |          3 |          8 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\params\index.vue                   | Vue        |          5 |          0 |          3 |          8 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\reports\index.vue                  | Vue        |          5 |          0 |          3 |          8 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\rights\index.vue                   | Vue        |          5 |          0 |          3 |          8 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\roles\index.vue                    | Vue        |          5 |          0 |          3 |          8 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\users\componets\dialog.vue         | Vue        |        109 |          5 |         10 |        124 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\users\index.vue                    | Vue        |        160 |         11 |         10 |        181 |
+| d:\a fore-end\myProject 完整后台管理系统项目\vue_3.2\src\views\users\options.js                   | JavaScript |         26 |          0 |          1 |         27 |
+| Total                                                                                   |            |      1,553 |         68 |        215 |      1,836 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
